@@ -20,6 +20,6 @@ public class JsonSchemaValidation {
 
       .then().assertThat()
       .body(JsonSchemaValidator.
-      matchesJsonSchema(new File("D:\\mobdev\\src\\main\\resources\\schema.json")));
+      matchesJsonSchema(new File("D:\\desafio mobdev\\Mobdev\\mobdev\\src\\main\\resources\\schema.json")));
    }
 }

@@ -8,7 +8,7 @@
 	<groupId>com.mobdev</groupId>
 	<artifactId>mobdev</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ms-mobdev</name>
+	<name>mobdev</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
