@@ -1,5 +1,5 @@
 # Mobdev
-Desafio para postular al cargo de desarrollador backend
+Desafio para postular al cargo de desarrollador backend, en donde se desarrolló una servicio el cual expone un endpoint que permite realizar una petición con el id de algún personaje de la serie Ricky and Morty, https://rickandmortyapi.com.
 
 ## Como compilar y ejecutar el proyecto MobDev
 
