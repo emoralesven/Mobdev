@@ -12,7 +12,7 @@ Abrir Spring Tools Suite e importar el proyecto, luego ejecutar como aplicación
 
 ## Documentación mediante Swagger2
 
-La documentación está disponible (mientras el proyecto esté en ejecución) en la siguiente url : http://localhost:8090/swagger-ui/
+La documentación está disponible (mientras el proyecto esté en ejecución) en la siguiente url : http://localhost:8080/swagger-ui/
 
 
 	
