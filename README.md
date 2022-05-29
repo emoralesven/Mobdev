@@ -15,8 +15,7 @@ Abrir Spring Tools Suite e importar el proyecto, luego ejecutar como aplicación
 La documentación está disponible (mientras el proyecto esté en ejecución) en la siguiente url : http://localhost:8080/swagger-ui/
 
 ## Formato de respuesta JSON de la API desarrollada
-		```json
-
+		```
 	{
 	"$schema": "http://json-schema.org/draft-07/schema",
 	"$id": "http://example.com/example.json",
